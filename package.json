@@ -1,0 +1,12 @@
+{
+  "name": "tmst",
+  "version": "1.0.0",
+  "description": "technomad stack template",
+  "main": "index.js",
+  "repository": "git@github.com:wommy/tmst.git",
+  "author": "wommy <tom@technomad.media>",
+  "license": "MIT",
+  "scripts": {
+    "init": "git submodule update --init --recursive; mkdir content; cd content;"
+  }
+}
