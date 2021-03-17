@@ -1,5 +1,9 @@
 # technomad stack template
 
-- [ ] create content/
-- [ ] `git submodule update --init --recursive`
+- [x] create content/
+- [x] `git submodule update --init --recursive`
+
+## todo
+
+- [ ] come up with todos
 
